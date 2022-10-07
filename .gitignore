@@ -8,10 +8,6 @@ __pycache__/
 ..gitignore*
 .gitignore*
 
-# Images
-*.png
-*.jpg
-*.jpeg
  
 # C extensions
 *.so
