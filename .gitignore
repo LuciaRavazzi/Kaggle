@@ -3,8 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# .gitignore temporary files
 ..gitignore*
 .gitignore*
+
+# Images
+*.png
+*.jpg
+*.jpeg
  
 # C extensions
 *.so
