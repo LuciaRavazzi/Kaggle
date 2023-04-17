@@ -11,3 +11,5 @@ This repo is meant to store the notebooks related to the following Kaggle tutori
 - Feature Engineering: https://www.kaggle.com/learn/feature-engineering
 
 - Time Series: https://www.kaggle.com/learn/time-series
+
+and all other experiments.
