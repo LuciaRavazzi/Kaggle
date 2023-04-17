@@ -12,4 +12,8 @@ This repo is meant to store the notebooks related to the following Kaggle tutori
 
 - Time Series: https://www.kaggle.com/learn/time-series
 
+- Intro to Machine Leaning: https://www.kaggle.com/learn/intro-to-machine-learning
+
+- Intermediate Machine Learning: https://www.kaggle.com/learn/intermediate-machine-learning
+
 and all other experiments.
